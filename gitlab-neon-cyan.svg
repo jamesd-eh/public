@@ -15,7 +15,7 @@
       </feMerge>
     </filter>
   </defs>
-  <rect width="128" height="128" rx="24" fill="#04101a"/>
+  <rect width="128" height="128" fill="#0e0e0e"/>
   <g fill="none" stroke="url(#neon)" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" filter="url(#glow)">
     <path d="M64 108 L16 66 L30 22 L41 56 L87 56 L98 22 L112 66 Z"/>
     <path d="M41 56 L64 108 L87 56" opacity="0.85"/>
