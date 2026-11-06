@@ -1,20 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
   <rect width="128" height="128" fill="#ff4fa3"/>
-  <g stroke="#ffffff" stroke-linecap="round">
-    <line x1="64" y1="64" x2="64.0" y2="12.0" stroke-width="14"/>
-    <line x1="64" y1="64" x2="78.0" y2="39.8" stroke-width="6"/>
-    <line x1="64" y1="64" x2="103.4" y2="38.4" stroke-width="9"/>
-    <line x1="64" y1="64" x2="118.0" y2="65.9" stroke-width="12"/>
-    <line x1="64" y1="64" x2="99.3" y2="82.8" stroke-width="5.5"/>
-    <line x1="64" y1="64" x2="79.0" y2="90.0" stroke-width="8"/>
-    <line x1="64" y1="64" x2="65.8" y2="117.0" stroke-width="13"/>
-    <line x1="64" y1="64" x2="43.3" y2="102.8" stroke-width="6"/>
-    <line x1="64" y1="64" x2="39.7" y2="79.8" stroke-width="10"/>
-    <line x1="64" y1="64" x2="14.2" y2="68.4" stroke-width="7"/>
-    <line x1="64" y1="64" x2="22.7" y2="43.8" stroke-width="12"/>
-    <line x1="64" y1="64" x2="42.8" y2="32.5" stroke-width="5"/>
+  <g fill="#ffffff">
+    <circle cx="64" cy="64" r="11"/>
+    <path d="M65.30 57.59 L59.36 17.14 A5.2 5.2 0 0 0 49.18 19.30 L60.21 58.67 Z"/>
+    <path d="M68.15 58.95 L79.28 27.39 A4.6 4.6 0 0 0 70.44 24.86 L63.15 57.52 Z"/>
+    <path d="M70.04 61.49 L98.16 35.54 A4.8 4.8 0 0 0 91.25 28.87 L66.30 57.88 Z"/>
+    <path d="M70.50 64.73 L99.46 57.55 A4.2 4.2 0 0 0 97.01 49.52 L68.98 59.76 Z"/>
+    <path d="M69.58 67.41 L109.85 75.49 A5.0 5.0 0 0 0 111.24 65.59 L70.30 62.26 Z"/>
+    <path d="M67.23 69.69 L92.18 90.74 A4.4 4.4 0 0 0 97.48 83.72 L70.36 65.53 Z"/>
+    <path d="M64.18 70.54 L78.49 106.90 A5.0 5.0 0 0 0 87.55 102.67 L68.89 68.34 Z"/>
+    <path d="M60.99 69.80 L57.06 100.20 A4.4 4.4 0 0 0 65.84 100.82 L66.18 70.17 Z"/>
+    <path d="M58.75 67.90 L35.60 102.80 A5.2 5.2 0 0 0 44.60 108.00 L63.25 70.50 Z"/>
+    <path d="M57.53 64.97 L29.78 80.19 A4.4 4.4 0 0 0 34.45 87.66 L60.29 69.38 Z"/>
+    <path d="M57.76 62.04 L18.55 63.95 A4.8 4.8 0 0 0 19.55 73.50 L58.30 67.21 Z"/>
+    <path d="M59.49 59.26 L28.61 43.98 A4.6 4.6 0 0 0 25.01 52.45 L57.46 64.05 Z"/>
+    <path d="M62.13 57.73 L38.26 25.55 A5.0 5.0 0 0 0 30.60 31.98 L58.15 61.07 Z"/>
   </g>
-  <circle cx="92.4" cy="26.1" r="4.3" fill="#ffffff"/><circle cx="87.3" cy="31.0" r="4.3" fill="#ffffff"/><circle cx="81.1" cy="27.7" r="4.3" fill="#ffffff"/><circle cx="82.3" cy="20.7" r="4.3" fill="#ffffff"/><circle cx="89.3" cy="19.7" r="4.3" fill="#ffffff"/><circle cx="86.5" cy="25.0" r="3.3" fill="#ffd84d"/>
-  <circle cx="90.8" cy="104.9" r="4.0" fill="#ffd6ea"/><circle cx="84.9" cy="107.5" r="4.0" fill="#ffd6ea"/><circle cx="80.5" cy="102.7" r="4.0" fill="#ffd6ea"/><circle cx="83.8" cy="97.1" r="4.0" fill="#ffd6ea"/><circle cx="90.1" cy="98.4" r="4.0" fill="#ffd6ea"/><circle cx="86.0" cy="102.1" r="3.0" fill="#ffd84d"/>
-  <circle cx="31.2" cy="91.2" r="3.6" fill="#ffffff"/><circle cx="25.3" cy="91.7" r="3.6" fill="#ffffff"/><circle cx="23.1" cy="86.2" r="3.6" fill="#ffffff"/><circle cx="27.6" cy="82.4" r="3.6" fill="#ffffff"/><circle cx="32.6" cy="85.5" r="3.6" fill="#ffffff"/><circle cx="27.9" cy="87.4" r="2.8" fill="#c2185b"/>
+  <circle cx="100.4" cy="104.4" r="3.2" fill="#ffffff"/><circle cx="96.7" cy="108.0" r="3.2" fill="#ffffff"/><circle cx="92.1" cy="105.6" r="3.2" fill="#ffffff"/><circle cx="93.0" cy="100.5" r="3.2" fill="#ffffff"/><circle cx="98.2" cy="99.7" r="3.2" fill="#ffffff"/><circle cx="96.1" cy="103.6" r="2.4" fill="#ffd84d"/>
+  <circle cx="32.0" cy="102.7" r="2.9" fill="#ffd6ea"/><circle cx="27.7" cy="104.6" r="2.9" fill="#ffd6ea"/><circle cx="24.6" cy="101.1" r="2.9" fill="#ffd6ea"/><circle cx="26.9" cy="97.0" r="2.9" fill="#ffd6ea"/><circle cx="31.5" cy="98.0" r="2.9" fill="#ffd6ea"/><circle cx="28.6" cy="100.7" r="2.2" fill="#ffd84d"/>
+  <circle cx="108.8" cy="40.4" r="2.7" fill="#ffffff"/><circle cx="104.4" cy="40.7" r="2.7" fill="#ffffff"/><circle cx="102.7" cy="36.6" r="2.7" fill="#ffffff"/><circle cx="106.1" cy="33.7" r="2.7" fill="#ffffff"/><circle cx="109.9" cy="36.1" r="2.7" fill="#ffffff"/><circle cx="106.4" cy="37.5" r="2.1" fill="#c2185b"/>
 </svg>
